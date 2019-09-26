@@ -1,0 +1,2 @@
+include ':app', ':react-native-0.55.3'
+rootProject.name='FacebookLogin'
